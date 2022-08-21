@@ -1,0 +1,81 @@
+.pic1{
+    width: 25%;
+    border-radius: 4px;
+    height: 330px;
+}
+.attribution{
+    margin-bottom: 1%;
+}
+aside{
+    margin-left: 28.5rem;
+    margin-top: 8rem;
+}
+main{
+    background-color: rgb(249, 230, 233);
+    height: 580px;
+    padding-top: 0.5px;
+}
+.write-up{
+    background-color:  hsl(0, 0%, 100%);
+    width: 25%;
+    border-radius: 4px;
+    height: 330px;
+    margin-left: 14rem;
+    margin-top: -21.5rem;
+}
+.perfume{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-small;
+    color: gray;
+    margin-left: 1.3rem;
+    margin-bottom: -0.6rem;
+    padding-top: 1.5rem;
+    letter-spacing: 3px;
+}
+.gabrielle{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-left: 1.3rem;
+    font-size: 23px;
+}
+.small-texts{
+    font-size: 10.3px;
+    color: gray;
+    margin-top: -0.7rem;
+    margin-left: 1.3rem;
+    line-height: 18px;
+    margin-bottom: -0.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.figures{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 23px;
+    margin-left: 1.3rem;
+    color: seagreen;
+}
+span{
+    color: grey;
+    font-size: x-small;
+}
+button{
+    width: 80%;
+    border-radius: 5px;
+    border: none;
+    margin-top: -1rem;
+    font-weight: 600;
+    background-color: seagreen;
+    color: white;
+    margin-left: 1.3rem;
+    height: 9.5%;
+}
+
+
+
+
+
+
+
+
+
